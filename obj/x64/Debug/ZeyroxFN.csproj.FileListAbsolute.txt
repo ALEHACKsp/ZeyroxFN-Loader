@@ -1,0 +1,30 @@
+C:\Users\mark\Desktop\ZeyroxFN\bin\x64\Debug\ZeyroxFN.exe.config
+C:\Users\mark\Desktop\ZeyroxFN\bin\x64\Debug\ZeyroxFN.exe
+C:\Users\mark\Desktop\ZeyroxFN\bin\x64\Debug\ZeyroxFN.pdb
+C:\Users\mark\Desktop\ZeyroxFN\obj\x64\Debug\ZeyroxFN.Form1.resources
+C:\Users\mark\Desktop\ZeyroxFN\obj\x64\Debug\ZeyroxFN.Properties.Resources.resources
+C:\Users\mark\Desktop\ZeyroxFN\obj\x64\Debug\ZeyroxFN.csproj.GenerateResource.cache
+C:\Users\mark\Desktop\ZeyroxFN\obj\x64\Debug\ZeyroxFN.csproj.CoreCompileInputs.cache
+C:\Users\mark\Desktop\ZeyroxFN\obj\x64\Debug\ZeyroxFN.exe
+C:\Users\mark\Desktop\ZeyroxFN\obj\x64\Debug\ZeyroxFN.pdb
+C:\Users\mark\Desktop\ZeyroxFN\obj\x64\Debug\ZeyroxFN.csprojAssemblyReference.cache
+C:\Users\mark\Desktop\FN\ZeyroxFN\bin\x64\Debug\ZeyroxFN.exe
+C:\Users\mark\Desktop\FN\ZeyroxFN\bin\x64\Debug\ZeyroxFN.exe.config
+C:\Users\mark\Desktop\FN\ZeyroxFN\bin\x64\Debug\ZeyroxFN.pdb
+C:\Users\mark\Desktop\FN\ZeyroxFN\obj\x64\Debug\ZeyroxFN.Form1.resources
+C:\Users\mark\Desktop\FN\ZeyroxFN\obj\x64\Debug\ZeyroxFN.Properties.Resources.resources
+C:\Users\mark\Desktop\FN\ZeyroxFN\obj\x64\Debug\ZeyroxFN.csproj.GenerateResource.cache
+C:\Users\mark\Desktop\FN\ZeyroxFN\obj\x64\Debug\ZeyroxFN.csproj.CoreCompileInputs.cache
+C:\Users\mark\Desktop\FN\ZeyroxFN\obj\x64\Debug\ZeyroxFN.exe
+C:\Users\mark\Desktop\FN\ZeyroxFN\obj\x64\Debug\ZeyroxFN.pdb
+C:\Users\mark\Desktop\FN\ZeyroxFN\obj\x64\Debug\ZeyroxFN.csprojAssemblyReference.cache
+D:\get rekt\ZeyroxFN Loader\bin\x64\Debug\ZeyroxFN.exe.config
+D:\get rekt\ZeyroxFN Loader\bin\x64\Debug\ZeyroxFN.exe
+D:\get rekt\ZeyroxFN Loader\bin\x64\Debug\ZeyroxFN.pdb
+D:\get rekt\ZeyroxFN Loader\obj\x64\Debug\ZeyroxFN.csprojAssemblyReference.cache
+D:\get rekt\ZeyroxFN Loader\obj\x64\Debug\ZeyroxFN.Form1.resources
+D:\get rekt\ZeyroxFN Loader\obj\x64\Debug\ZeyroxFN.Properties.Resources.resources
+D:\get rekt\ZeyroxFN Loader\obj\x64\Debug\ZeyroxFN.csproj.GenerateResource.cache
+D:\get rekt\ZeyroxFN Loader\obj\x64\Debug\ZeyroxFN.csproj.CoreCompileInputs.cache
+D:\get rekt\ZeyroxFN Loader\obj\x64\Debug\ZeyroxFN.exe
+D:\get rekt\ZeyroxFN Loader\obj\x64\Debug\ZeyroxFN.pdb
